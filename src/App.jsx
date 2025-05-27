@@ -25,7 +25,7 @@ function App() {
 
   return (
     <Router>
-     <Header2 user={user} />
+      <Header2 user={user} />
       {/* <Header user={user} onLogout={handleLogout} />
       <Routes>
         <Route

@@ -11,7 +11,7 @@ const Footer = () => {
         </p>
         <div className="flex  align-middle items-center  justify-center space-x-2">
         <h2 className="text-xl font-bold text-white">CodeKnightxDevs</h2>
-        <Rocket size={24} color="red" />
+        <Rocket size={28} color="red" />
         </div>
       </div>
     </footer>
